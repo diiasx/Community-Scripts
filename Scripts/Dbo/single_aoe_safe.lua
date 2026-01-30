@@ -2,6 +2,7 @@
 -- Single + AOE Safe
 -- Autor: Yago
 -- ======================================================
+local macroName = 'Heal Friend';
 
 if _G.singleAoeSafeLoaded then return end
 _G.singleAoeSafeLoaded = true
