@@ -4,7 +4,7 @@ script_manager = {
     _cache = {
 
     ['Single + AOE Safe'] = {
-      url = 'https://raw.githubusercontent.com/diiasx/Community-Scripts/main/Scripts/single_aoe_safe.lua',
+      url = 'https://raw.githubusercontent.com/diiasx/Community-Scripts/main/Scripts/Dbo/single_aoe_safe.lua',
       author = 'Yago',
       description = 'Usa AOE ou single baseado em players e quantidade de mobs',
       enabled = false
