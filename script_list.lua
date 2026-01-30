@@ -1,5 +1,7 @@
-script_manager._cache = {
-  Scripts = {
+-- Initialize script_manager with script cache
+script_manager = {
+    actualVersion = 0.4,
+    _cache = {
 
     ['Single + AOE Safe'] = {
       url = 'https://raw.githubusercontent.com/diiasx/Community-Scripts/main/Scripts/single_aoe_safe.lua',
